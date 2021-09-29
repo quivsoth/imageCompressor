@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQKTZJ9C5sWjuXd7NdmsQIBEFg9xVSy7YiN2liJdvtMpni9tRtlW7f7i93lOCJd9pSKpy/uhYoUFIK+26x7yVA==",
+  "success": true,
+  "projectFilePath": "/Users/zakriag/Documents/dev/imageCompressor/imageCompressor.csproj",
+  "expectedPackageFiles": [
+    "/Users/zakriag/.nuget/packages/magick.net.core/8.3.2/magick.net.core.8.3.2.nupkg.sha512",
+    "/Users/zakriag/.nuget/packages/sixlabors.imagesharp/1.0.3/sixlabors.imagesharp.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
